@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/TextUtils/static/css/main.a617e044.chunk.css",
-    "main.js": "/TextUtils/static/js/main.e32d7ae9.chunk.js",
-    "main.js.map": "/TextUtils/static/js/main.e32d7ae9.chunk.js.map",
-    "runtime-main.js": "/TextUtils/static/js/runtime-main.7ff538cd.js",
-    "runtime-main.js.map": "/TextUtils/static/js/runtime-main.7ff538cd.js.map",
-    "static/js/2.088b7bfe.chunk.js": "/TextUtils/static/js/2.088b7bfe.chunk.js",
-    "static/js/2.088b7bfe.chunk.js.map": "/TextUtils/static/js/2.088b7bfe.chunk.js.map",
-    "static/js/3.32d4b411.chunk.js": "/TextUtils/static/js/3.32d4b411.chunk.js",
-    "static/js/3.32d4b411.chunk.js.map": "/TextUtils/static/js/3.32d4b411.chunk.js.map",
-    "index.html": "/TextUtils/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/TextUtils/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.088b7bfe.chunk.js.LICENSE.txt": "/TextUtils/static/js/2.088b7bfe.chunk.js.LICENSE.txt"
+    "main.css": "/EditorForSentenceAndText/static/css/main.a617e044.chunk.css",
+    "main.js": "/EditorForSentenceAndText/static/js/main.e32d7ae9.chunk.js",
+    "main.js.map": "/EditorForSentenceAndText/static/js/main.e32d7ae9.chunk.js.map",
+    "runtime-main.js": "/EditorForSentenceAndText/static/js/runtime-main.4d0a7c46.js",
+    "runtime-main.js.map": "/EditorForSentenceAndText/static/js/runtime-main.4d0a7c46.js.map",
+    "static/js/2.088b7bfe.chunk.js": "/EditorForSentenceAndText/static/js/2.088b7bfe.chunk.js",
+    "static/js/2.088b7bfe.chunk.js.map": "/EditorForSentenceAndText/static/js/2.088b7bfe.chunk.js.map",
+    "static/js/3.32d4b411.chunk.js": "/EditorForSentenceAndText/static/js/3.32d4b411.chunk.js",
+    "static/js/3.32d4b411.chunk.js.map": "/EditorForSentenceAndText/static/js/3.32d4b411.chunk.js.map",
+    "index.html": "/EditorForSentenceAndText/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/EditorForSentenceAndText/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.088b7bfe.chunk.js.LICENSE.txt": "/EditorForSentenceAndText/static/js/2.088b7bfe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ff538cd.js",
+    "static/js/runtime-main.4d0a7c46.js",
     "static/js/2.088b7bfe.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.e32d7ae9.chunk.js"
