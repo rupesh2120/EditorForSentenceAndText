@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Here is the deployed link
 
-https://rupesh2120.github.io/TextUtils/
+https://rupesh2120.github.io/EditorForSentenceAndText/
 
 ### How does this project and what is it?
 
