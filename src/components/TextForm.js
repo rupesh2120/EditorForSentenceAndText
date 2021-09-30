@@ -13,6 +13,11 @@ export default function TextForm(props) {
 		setText(newText);
 	};
 
+	const handleExtraSpaces = () => {
+		let newText = text.split(/[ ]+/);
+		setText(newText.join(" "));
+	};
+
 	const handleClearClick = () => {
 		let newText = "";
 		setText(newText);
@@ -54,6 +59,9 @@ export default function TextForm(props) {
 			</button>
 			<button className="btn btn-primary mx-2 " onClick={handleCopy}>
 				Copy text
+			</button>
+			<button className="btn btn-primary mx-2 " onClick={handleExtraSpaces}>
+				Remove Extra Spaces
 			</button>
 			<button className="btn btn-primary mx-2" onClick={handleClearClick}>
 				Clear Text
